@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+
+DEPENDENCIES:
+  - Masonry
+  - MBProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+
+PODFILE CHECKSUM: df2e2767c202bca208c0bbd549a75f79b63b78aa
+
+COCOAPODS: 1.5.3
